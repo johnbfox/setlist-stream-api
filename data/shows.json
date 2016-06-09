@@ -1,0 +1,188 @@
+{
+  "shows":[
+    {
+      "month":"05",
+      "day":"22",
+      "year":"2016",
+      "venue":"Xcel Energy Center",
+      "hours": "13",
+      "location": "St. Paul, Minnesota"
+    },
+    {
+      "month":"05",
+      "day":"24",
+      "year":"2016",
+      "venue":"Wrigley Field",
+      "hours": "13",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "month":"05",
+      "day":"25",
+      "year":"2016",
+      "venue":"Wrigley Field",
+      "hours": "13",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "month":"05",
+      "day":"26",
+      "year":"2016",
+      "venue":"Klipsch Music Center",
+      "hours": "14",
+      "location": "Novlesville, Indiana"
+    },
+    {
+      "month":"05",
+      "day":"28",
+      "year":"2016",
+      "venue":"The Mann",
+      "hours": "14",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "month":"05",
+      "day":"29",
+      "year":"2016",
+      "venue":"The Mann",
+      "hours": "14",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "month":"06",
+      "day":"01",
+      "year":"2016",
+      "venue":"Saratoga Performing Arts Center",
+      "hours": "14",
+      "location": "Sartoga Springs, New York"
+    },
+    {
+      "month":"06",
+      "day":"02",
+      "year":"2016",
+      "venue":"Saratoga Performing Arts Center",
+      "hours": "14",
+      "location": "Sartoga Springs, New York"
+    },
+    {
+      "month":"06",
+      "day":"03",
+      "year":"2016",
+      "venue":"Saratoga Performing Arts Center",
+      "hours": "14",
+      "location": "Sartoga Springs, New York"
+    },
+    {
+      "month":"06",
+      "day":"05",
+      "year":"2016",
+      "venue":"The Cross Arena",
+      "hours": "14",
+      "location": "Portland, Maine"
+    },
+    {
+      "month":"06",
+      "day":"08",
+      "year":"2016",
+      "venue":"Xfinity Center",
+      "hours": "14",
+      "location": "Mansfield, Massachusetts"
+    },
+    {
+      "month":"06",
+      "day":"09",
+      "year":"2016",
+      "venue":"Xfinity Theater",
+      "hours": "14",
+      "location": "Hartford, Connecticut"
+    },
+    {
+      "month":"06",
+      "day":"10",
+      "year":"2016",
+      "venue":"Lakeview Amphitheatre",
+      "hours": "14",
+      "location": "Syracuse, New York"
+    },
+    {
+      "month":"06",
+      "day":"15",
+      "year":"2016",
+      "venue":"Gorge Amphitheatre",
+      "hours": "12",
+      "location": "George, Washington"
+    },
+    {
+      "month":"06",
+      "day":"16",
+      "year":"2016",
+      "venue":"Gorge Amphitheatre",
+      "hours": "12",
+      "location": "George, Washington"
+    },
+    {
+      "month":"06",
+      "day":"18",
+      "year":"2016",
+      "venue":"Bill Graham Civic Auditorium",
+      "hours": "12",
+      "location": "San Francisco, California"
+    },
+    {
+      "month":"06",
+      "day":"19",
+      "year":"2016",
+      "venue":"Bill Graham Civic Auditorium",
+      "hours": "12",
+      "location": "San Francisco, California"
+    },
+    {
+      "month":"06",
+      "day":"20",
+      "year":"2016",
+      "venue":"Bill Graham Civic Auditorium",
+      "hours": "14",
+      "location": "San Francisco, California"
+    },
+    {
+      "month":"06",
+      "day":"22",
+      "year":"2016",
+      "venue":"The Forum",
+      "hours": "14",
+      "location": "Inglewood, California"
+    },
+    {
+      "month":"06",
+      "day":"20",
+      "year":"2016",
+      "venue":"Sleep Train Amphitheatre",
+      "hours": "14",
+      "location": "Chula Vista, California"
+    },
+    {
+      "month":"08",
+      "day":"02",
+      "year":"2016",
+      "venue":"Dick's Spoting Goods Park",
+      "hours": "14",
+      "location": "Commerce City, Colorado"
+    },
+    {
+      "month":"08",
+      "day":"03",
+      "year":"2016",
+      "venue":"Dick's Spoting Goods Park",
+      "hours": "14",
+      "location": "Commerce City, Colorado"
+    },
+    {
+      "month":"08",
+      "day":"04",
+      "year":"2016",
+      "venue":"Dick's Spoting Goods Park",
+      "hours": "14",
+      "location": "Commerce City, Colorado"
+    }
+  ]
+}
